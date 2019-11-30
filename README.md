@@ -16,11 +16,11 @@ Python 3 is required for this Project.*.
 
 This is an Udacity Data Science Nanodegree project. I chose FIFA 19 dataset to answer the following questions:
 
-1.Who are the Top 10 most Valuable Players?
-2.Which are Top 10 Clubs having most Valuable Players?
-3.Who are the Top 10 Highly Paid Players?
-4.Which are Top 10 Clubs having most Highly Paid Players?
-5.Are the higher valued players always paid more, i.e, what is the correlation between value and wage
+1.Who are the Top 10 most Valuable Players?  
+2.Which are Top 10 Clubs having most Valuable Players?  
+3.Who are the Top 10 Highly Paid Players?  
+4.Which are Top 10 Clubs having most Highly Paid Players?  
+5.Are the higher valued players always paid more, i.e, what is the correlation between value and wage 
 
 
 ## File Descriptions <a name="files"></a>
