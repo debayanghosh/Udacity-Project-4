@@ -27,17 +27,18 @@ This is an Udacity Data Science Nanodegree project. I chose FIFA 19 dataset to a
 
 fifa19.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage. There are a lot of other interesting attributes for the players as well such as release clause.
 
-There is also a notebook available here to show my work related to the above questions.
+There is also a notebook available here to show my work related to the above questions. I have also uploaded the html file for the same.
 
 
 
 ## Results<a name="results"></a>
 
-The insights could be found at [post](https://https://medium.com/@soutirchakraborty/fifa-19-descriptive-analysis-8ff63e4ae826) available
+The results insights could be found at [post](https://https://medium.com/@soutirchakraborty/fifa-19-descriptive-analysis-8ff63e4ae826) .
+Please refer to this link to get a summary of my work.
 
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data in the Kaggle link available her [here](https://www.kaggle.com/karangadiya/fifa19).
-I want to thank the Udacity Data Science program for giving me this opportunity to do the project.
+You can find the Licensing for the data in the Kaggle link available her [here](https://www.kaggle.com/karangadiya/fifa19). 
+I want to thank the Udacity Data Science Nano-Degree Program for giving me this opportunity to do the project.
