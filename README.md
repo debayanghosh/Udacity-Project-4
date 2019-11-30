@@ -33,7 +33,7 @@ There is also a notebook available here to show my work related to the above que
 
 ## Results<a name="results"></a>
 
-The results insights could be found at [post](https://https://medium.com/@soutirchakraborty/fifa-19-descriptive-analysis-8ff63e4ae826) .
+The results insights could be found at [post](https://medium.com/@debayanghosh92/ea-sports-fifa-2019-a-short-descriptive-analysis-8f0108e9abb5) .
 Please refer to this link to get a summary of my work.
 
 
